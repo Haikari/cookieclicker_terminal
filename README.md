@@ -6,11 +6,9 @@ READ IT:
 1. Run the main file (main.py)
 
 2. Dependencies:
-
 pip install keyboard or pip3 intall keyboard
 
 3. For Linux users:
-
 sudo .venv/bin/python main.py
 
 
