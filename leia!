@@ -1,0 +1,5 @@
+for Linux users:
+sudo .venv/bin/python main.py
+
+dependencies:
+pip install keyboard or pip3 intall keyboard
