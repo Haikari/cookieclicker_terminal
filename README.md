@@ -3,10 +3,12 @@ Hi! I'm Haikari and I maked it in a few hours
 
 READ IT:
 
-1. Dependencies:
+1. Run the main file (main.py)
+
+2. Dependencies:
 pip install keyboard or pip3 intall keyboard
 
-2. For Linux users:
+3. For Linux users:
 sudo .venv/bin/python main.py
 
 
